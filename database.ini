@@ -1,0 +1,5 @@
+[postgresql]
+host=localhost
+database=hh_vacancies_database
+user=postgres
+password=simplepassword123
